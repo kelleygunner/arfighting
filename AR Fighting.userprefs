@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FightSystem\AnimationManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Interface\WaitingMenu.cs" Line="31" Column="28" />
+      <File FileName="Assets\Scripts\Interface\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Global.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\StartMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\OptionsMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\NewsMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\InfoMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\LogInRegistration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\DialogMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\EventManagerUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Interface\StoreMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckTextFormat.cs" Line="1" Column="1" />
+      <File FileName="Assets\VkApiForMobile\Scripts\VkController.cs" Line="1" Column="1" />
+      <File FileName="\\servak2\Work 3\unity\для игры\StartMenu.cs" Line="84" Column="13" />
+      <File FileName="Assets\Scripts\FightSystem\FighterControl.cs" Line="108" Column="24" />
+      <File FileName="Assets\Scripts\FightSystem\AnimationManager.cs" Line="13" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
